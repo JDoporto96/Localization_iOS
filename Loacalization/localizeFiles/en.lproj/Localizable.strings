@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  Loacalization
+
+  Created by Intekglobal01 on 1/19/24.
+  
+*/
+
+"hello_text" = "Hello World!";
+"next_button_text" = "Next";
+"current_lenguage" = "Current language:";
+"change_language" = "Change language";

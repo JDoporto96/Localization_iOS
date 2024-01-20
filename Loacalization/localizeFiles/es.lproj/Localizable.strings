@@ -1,0 +1,12 @@
+/* 
+  es.lproj:Localizable.strings
+  Loacalization
+
+  Created by Intekglobal01 on 1/19/24.
+  
+*/
+
+"hello_text" = "Hola Mundo!";
+"next_button_text" = "Siguiente";
+"current_lenguage" = "Idioma actual:";
+"change_language" = "Cambiar idioma";
